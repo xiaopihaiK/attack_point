@@ -45,5 +45,6 @@ Input IPs(10.10.10.1/24)
 如果目标在国外的话，就找个国外的VPS.
 对于任何的扫描器或者漏扫而言，服务器的丢包时不得不考虑的一个事项。
 
+xiaopihainidaye@protonmail.ch
 SealGod - NanJing
 ```
